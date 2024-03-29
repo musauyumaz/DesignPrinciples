@@ -1,4 +1,4 @@
-# Design Principles Eğitimleri
+# Design Principles
 
 ***
 # [Bu notları Gençay Yıldız hocamın sayesinde izlediğim bu playlistten öğrendim.](https://www.youtube.com/playlist?list=PLQVXoXFVVtp2eAq33DVNxeoXLXj4VMYpT)
